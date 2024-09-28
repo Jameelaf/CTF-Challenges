@@ -1,6 +1,6 @@
 Note: The pictures of the flags are uploaded in this same repository.
 
-### 1. Rubber Duck (Forensics Challenge)
+### 1. Rubber Duck 
 
 Description: In this challenge, the objective is to extract hidden information from a 
 photo file using forensic analysis techniques. 
@@ -13,7 +13,7 @@ Image: RubberDuck.jpg
 
 ------------------------------------------------------------------------------------------------
 
-### 2. Just Take the Ls ( (Zip File Challenge)
+### 2. Just Take the Ls
 
 Description: In this challenge, the goal is to extract a hidden flag from a provided zip file 
 using forensic techniques.
@@ -27,7 +27,7 @@ Image: JustTakeTheLs.jpg
 
 ------------------------------------------------------------------------------------------------
 
-### 3. I'm a Dump (Hexadecimal Challenge)
+### 3. I'm a Dump 
 
 Description: In this challenge, you are given a clue that the flag is hidden in 
 hexadecimal format. The task is to decode the hex, 
@@ -58,7 +58,32 @@ Image: QRCode.jpg
 
 ------------------------------------------------------------------------------------------------
 
+### 5. My Blog
 
-### 2. My Blog
+Note: The website mentioned in this challenge is either dead or the flag is inaccessible. 
+But the methods used here is 
+  --> "Go to the Website , Click on Inspect Element, select Storage, then select Local Storage"
 
-Note: The website mentioned in this challenge is either dead and the flag is inaccessible. But the method used 
+Outcome: NA 
+
+Image: NA
+
+------------------------------------------------------------------------------------------------
+
+### 6. Time Traveller
+
+Description:  In this challenge, I travelled back in time to NASA's website as it appeared on December 31, 1996, 
+to retrieve the email listed on their homepage. It was very straightforward, utilising web archiving 
+techniques to complete the task.
+
+Tools Used:  - Wayback Machine
+
+Outcome: CTFlearn{today@nasa.gov}
+
+Image: NASA.jpg
+
+------------------------------------------------------------------------------------------------
+
+
+
+

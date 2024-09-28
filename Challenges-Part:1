@@ -5,7 +5,7 @@ Note: The pictures of the flags are uploaded in this same repository.
 Description: In this challenge, the objective is to extract hidden information from a 
 photo file using forensic analysis techniques. 
 
-Tool Used: Exiftool
+Tool Used:  - Exiftool
 
 Outcome:CTFlearn{ILoveJakarta}
 
@@ -18,8 +18,8 @@ Image: RubberDuck.jpg
 Description: In this challenge, the goal is to extract a hidden flag from a provided zip file 
 using forensic techniques.
 
-Tool Used: Zip File Tools like WinRAR, 7-Zip
-           Pdf Viewer like evince (Kali Linux)
+Tool Used:   - Zip File Tools like WinRAR, 7-Zip
+             - Pdf Viewer like evince (Kali Linux)
 
 Outcome: ABCTF{T3Rm1n4l_is_C00l}
 
@@ -33,8 +33,8 @@ Description: In this challenge, you are given a clue that the flag is hidden in
 hexadecimal format. The task is to decode the hex, 
 remove any unnecessary "H.E.H.U.H.E." sequences, and format the solution as CTFlearn{*}.
 
-Tool Used: "strings" command (Kali Linux)
-           "cat" / "nano" command (Kali Linux)
+Tool Used:   - "strings" command (Kali Linux)
+             - "cat" / "nano" command (Kali Linux)
 
 Outcome: CTFlearn{fl4ggyfl4g}
 
@@ -42,10 +42,21 @@ Image: ImADump.jpg
 
 ------------------------------------------------------------------------------------------------
 
+### 4. QR Code
 
+Description: In this challenge, you're given a QR code, and your task is to extract the 
+hidden flag from it.
 
+Tool Used:   - QR Code Scanners
+             - Image Analysis Tools like zbarimg, ZXing Decoder
+             - CyberChef (Powerful web-based tool designed for carrying out a 
+           variety of data transformations and analyses)
 
+Outcome: n0_body_f0rget_qr_code
 
+Image: QRCode.jpg
+
+------------------------------------------------------------------------------------------------
 
 
 ### 2. My Blog

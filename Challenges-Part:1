@@ -97,6 +97,21 @@ Image: Exif.jpg
 
 ------------------------------------------------------------------------------------------------
 
+### 8. Wikipedia
 
+Description: In this Challenge, we are going to find out if there are any edits made by the user from the 
+ip addr: 128.125.52.138. 
+Wikipedia logs edits made by users, including anonymous users using their IP addresses. 
+
+Tools Used:  - Go to "Wikipedia Contribution"
+             - In the "Search for Contribution section" ,
+Type the ip addr in the "Username, IP address or CIDR range" column
+             - Select "diff"
+
+Outcome: cNi76bV2IVERlh97hP
+
+Image: Wikipedia.jpg
+
+------------------------------------------------------------------------------------------------
 
 

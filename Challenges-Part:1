@@ -27,6 +27,25 @@ Image: JustTakeTheLs.jpg
 
 ------------------------------------------------------------------------------------------------
 
+### 3. I'm a Dump (Hexadecimal Challenge)
+
+Description: In this challenge, you are given a clue that the flag is hidden in 
+hexadecimal format. The task is to decode the hex, 
+remove any unnecessary "H.E.H.U.H.E." sequences, and format the solution as CTFlearn{*}.
+
+Tool Used: "strings" command (Kali Linux)
+           "cat" / "nano" command (Kali Linux)
+
+Outcome: CTFlearn{fl4ggyfl4g}
+
+Image: ImADump.jpg
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 
 ### 2. My Blog

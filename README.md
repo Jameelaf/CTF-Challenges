@@ -4,16 +4,4 @@ Welcome to the **CTF Challenges** repository! This repository contains a collect
 
 [CTFLEARN.COM](https://ctflearn.com/dashboard)
 
-## Categories
 
-### 1. Web Exploitation
-
-### 2. Cryptography
-
-### 3. Reverse Engineering
-
-### 4. Forensics
-
-### 5. Steganography
-
-### 6. Miscellaneous

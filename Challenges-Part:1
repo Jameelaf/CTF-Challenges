@@ -5,7 +5,7 @@ Note: The pictures of the flags are uploaded in this same repository.
 Description: In this challenge, the objective is to extract hidden information from a 
 photo file using forensic analysis techniques. 
 
-Tool Used:  - Exiftool
+Tool Used:  - ExifTool
 
 Outcome:CTFlearn{ILoveJakarta}
 
@@ -81,6 +81,19 @@ Tools Used:  - Wayback Machine
 Outcome: CTFlearn{today@nasa.gov}
 
 Image: NASA.jpg
+
+------------------------------------------------------------------------------------------------
+
+### 7. Exif
+
+Description: In this challenge, you are provided with an image that supposedly contains a hidden password. 
+To retrieve it, you’ll need to extract metadata from the image using forensic tools.
+
+Tools Used:  - ExifTool
+
+Outcome: flag{3l1t3_3x1f_4uth0r1ty_dud3br0}
+
+Image: Exif.jpg
 
 ------------------------------------------------------------------------------------------------
 

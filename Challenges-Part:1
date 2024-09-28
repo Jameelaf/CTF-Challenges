@@ -1,0 +1,14 @@
+### 1. Rubber Duck (Forensics Challenge)
+
+Description: In this challenge, the objective is to extract hidden information from a 
+photo file using forensic analysis techniques. 
+
+Tool Used: Exiftool
+
+Outcome:CTFlearn{ILoveJakarta}
+
+![Rubber Duck](./RubberDuck.jpg)
+
+### 2. My Blog
+
+Note: The website mentioned in this challenge is either dead and the flag is inaccessible. But the method used 
